@@ -1,4 +1,4 @@
-# EGGAN
+# EGGAN: Fine-Grained Expression Manipulation via Structured Latent Space
 This repository implements the training and testing of EGGAN for "[Fine-Grained Expression Manipulation via Structured Latent Space](https://ieeexplore.ieee.org/document/9102852)". It offers the original implementation of the paper in PyTorch. 
 
 ## Dependencies
